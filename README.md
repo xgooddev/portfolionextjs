@@ -2,7 +2,8 @@
 
 Este es mi portfolio web, desarrollado con Next.js, Tailwind CSS y TypeScript, donde muestro mis proyectos, experiencia y una sección de contacto para que puedan conocer más sobre mi trabajo como desarrollador.
 
-![Captura de pantalla del portfolio] (./public/portfoliocaptura.png)
+<img width="1920" height="911" alt="portfoliocaptura" src="https://github.com/user-attachments/assets/6cfbc78b-6016-4c3e-961d-ef42cd1af32c" />
+
 
 El sitio está diseñado con un enfoque moderno, minimalista y responsive, adaptándose perfectamente a dispositivos móviles, tablets y pantallas de escritorio.
 
@@ -29,16 +30,15 @@ El portfolio cuenta con tres secciones principales:
 El sitio fue diseñado con un enfoque mobile-first, asegurando una experiencia fluida en cualquier tamaño de pantalla.
 Utiliza componentes reutilizables y estilos adaptativos gracias a la potencia de Tailwind CSS.
 
+<img width="1920" height="911" alt="portfoliocaptura2" src="https://github.com/user-attachments/assets/bf834fb6-2bc1-4568-a32e-9fe85cdb64fc" />
 
-![Captura de pantalla del portfolio] (./public/portfoliocaptura2.png)
 
 🛠️ Instalación y ejecución local
 
 Si querés probar o modificar el proyecto en tu entorno local:
 
 # Clonar el repositorio
-git clone https://github.com/tuusuario/tu-portfolio.git
-
+git clone https://github.com/xgooddev/portfolionextjs
 # Entrar al directorio del proyecto
 cd tu-portfolio
 
