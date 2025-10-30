@@ -11,7 +11,7 @@ export default function Portfolio() {
       description:
         "Design and implementation of institutional landing page with links to PDF catalogs. Publication in hosting, responsive, optimized for SEO.",
       tech: ["HTML", "Javascript", "Firebase", "ReactJS"],
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/nipontools.webp?height=300&width=500",
       link: "https://github.com",
       live: "https://nipontools.com.ar/",
     },
@@ -19,23 +19,23 @@ export default function Portfolio() {
       title: "YoSmokeo App",
       description: "Yo Smokeo is a web app for CS2 players to learn and practice smoke lineups. It features clear visuals, an intuitive UI, and map-based navigation to improve tactical gameplay.",
       tech: ["ReactJS", "Tailwind CSS", "Javascript", "Vercel"],
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/yosmokeo.webp?height=300&width=500",
       link: "https://github.com/xgooddev/yosmokeo",
       live: "https://yosmokeo.pro",
     },
     {
       title: "Palaces Seeds interactive catalog",
-      description: "Palace Seeds Catalog is a visual web app showcasing cannabis genetics through interactive animated cards. Built with React and Tailwind, it highlights UI design and front-end interaction.",
+      description: "Palace Seeds Catalog is a visual web app showcasing catalog genetics through interactive animated cards. Built with React and Tailwind, it highlights UI design and front-end interaction.",
       tech: ["React", "Tailwind", "Javascript"],
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/palacescatalog.webp?height=300&width=500",
       link: "https://github.com/xgooddev/palaces-catalog",
       live: "https://palaces-catalogo.vercel.app/",
     },
     {
       title: "CS2 Skin Market Tracker",
-      description: "AI-powered content creation platform with custom templates and multi-language support.",
+      description: "CS2 Skin Market Tracker is an interactive web app that displays fictional real-time skin prices with their price history, search filters, and an interface built with Shadcn.",
       tech: ["Next.js", "React JS", "Shadcn", "Framer Motion"],
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/cs2skinmarket.webp?height=300&width=500",
       link: "https://github.com",
       live: "https://example.com",
     },
@@ -51,12 +51,12 @@ export default function Portfolio() {
     {
       company: "Marquez & Asociados",
       role: "IT Support",
-      period: "2022 - 2023",
+      period: "2022 - 2024",
       description:
         "Provided IT support for a law firm, managing hardware and software issues. Improved system uptime by 30% through proactive maintenance.",
     },
     {
-      company: "Freelance work.",
+      company: "Self-employed worker.",
       role: "IT Support",
       period: "2021 - 2022",
       description:
